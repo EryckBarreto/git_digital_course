@@ -8,5 +8,6 @@ uso do comando git restore
 
 comando git push 
 comando git pull
+comando git fetch
 
 Arquivo criado para o curso da Ada para treinar os conceitos apresentados em aula.

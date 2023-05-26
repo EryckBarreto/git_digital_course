@@ -7,5 +7,6 @@ Uso do git diff e git commit
 uso do comando git restore
 
 comando git push 
+comando git pull
 
 Arquivo criado para o curso da Ada para treinar os conceitos apresentados em aula.
